@@ -1,4 +1,4 @@
 # mtg-sorter
 MTG sorting machine experimentation
 
-Peter Testing some readme change
+A collaborative effort by @awesor and @7thGate
